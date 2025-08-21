@@ -1,4 +1,5 @@
-
+create database Academic_Management_System;
+use database Academic_Management_System;
 
 
 -- a) Create the StudentInfo table with columns STU_ ID, STU_NAME, DOB, PHONE_NO,EMAIL_ID,ADDRESS
